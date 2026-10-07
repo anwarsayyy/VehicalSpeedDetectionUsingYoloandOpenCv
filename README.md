@@ -9,3 +9,8 @@ suitable for deployment in intelligent transportation systems. Additionally, the
 statistical analysis to provide actionable insights into traffic patterns. This work demonstrates the practical
 application of machine learning and computer vision in addressing real-world challenges. The result is a
 reliable tool for traffic monitoring and management
+
+
+
+
+Author : SAYYAD ANWAR
